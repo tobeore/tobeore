@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobechukwu-chris-odeh/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobeodeh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobeore)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobechukwu)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <table>
 <tr>
-<td width="100%">
+<td width="55%">
 
 Where some see datasets, I see **signals waiting to become decisions**.
 Where others stop at prototypes, I push toward **deployment, interaction, and impact**.
@@ -35,6 +35,11 @@ I don't just train models —
 I **teach systems to think, react, and exist in the real world**.
 
 > *Code is my language. Systems are my sentences. Impact is the message.*
+
+</td>
+<td width="45%" align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobeore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </td>
 </tr>
@@ -113,35 +118,14 @@ Using machine learning to surface hidden risks and support public health awarene
 
 ---
 
-🧰 Tech Stack
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-🐍 Languages
-Show Image
-Show Image
-Show Image
-</td>
-<td width="50%" valign="top" align="center">
-🤖 Machine Learning
-Show Image
-Show Image
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-⚡ Embedded & IoT
-Show Image
-Show Image
-</td>
-<td width="50%" valign="top" align="center">
-🛠️ Tools & Platforms
-Show Image
-Show Image
-Show Image
-</td>
-</tr>
-</table>
+## 🧰 Tech Stack
+
+| Category | Technologies |
+|:---|:---|
+| 🐍 **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| 🤖 **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) |
+| ⚡ **Embedded & IoT** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-Edge_AI-2c5364?style=for-the-badge) |
+| 🛠️ **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Blynk](https://img.shields.io/badge/Blynk-00979D?style=for-the-badge) |
 
 ---
 
