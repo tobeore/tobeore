@@ -115,17 +115,17 @@ Using machine learning to surface hidden risks and support public health awarene
 
 ## 🧰 Tech Stack
 
-<table width="100%">
+<table>
   <thead>
-    <tr>
-      <th align="left" width="50%">Category</th>
+    <tr width="100%">
+      <th align="left" >Category</th>
       <th align="left" width="60%">Technologies</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr width="50%">
       <td>🐍 <strong>Languages</strong></td>
-      <td width="50%" valign="top">
+      <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
         <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
