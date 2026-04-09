@@ -26,7 +26,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="100%">
 
 Where some see datasets, I see **signals waiting to become decisions**.
 Where others stop at prototypes, I push toward **deployment, interaction, and impact**.
@@ -35,11 +35,6 @@ I don't just train models —
 I **teach systems to think, react, and exist in the real world**.
 
 > *Code is my language. Systems are my sentences. Impact is the message.*
-
-</td>
-<td width="45%" align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobeore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </td>
 </tr>
