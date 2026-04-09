@@ -133,7 +133,7 @@ Using machine learning to surface hidden risks and support public health awarene
     </tr>
     <tr>
       <td>🤖 <strong>Machine Learning</strong></td>
-      <td>
+      <td width="50%" valign="top">
         <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
       </td>
