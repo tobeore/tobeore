@@ -115,16 +115,16 @@ Using machine learning to surface hidden risks and support public health awarene
 
 ## 🧰 Tech Stack
 
-<table>
+<table width="100%">
   <thead>
-    <tr width = "100%">
-      <th align="left">Category</th>
-      <th align="left">Technologies</th>
+    <tr>
+      <th align="left" width="50%">Category</th>
+      <th align="left" width="50%">Technologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width = "50%">🐍 <strong>Languages</strong></td>
+      <td>🐍 <strong>Languages</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -132,7 +132,7 @@ Using machine learning to surface hidden risks and support public health awarene
       </td>
     </tr>
     <tr>
-      <td width = "50%">🤖 <strong>Machine Learning</strong></td>
+      <td>🤖 <strong>Machine Learning</strong></td>
       <td>
         <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -155,7 +155,6 @@ Using machine learning to surface hidden risks and support public health awarene
     </tr>
   </tbody>
 </table>
-
 ---
 
 ## 🧠 How I Think
