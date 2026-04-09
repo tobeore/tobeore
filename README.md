@@ -124,7 +124,7 @@ Using machine learning to surface hidden risks and support public health awarene
   </thead>
   <tbody>
     <tr>
-      <td>🐍 <strong>Languages</strong></td>
+      <td width = "100%">🐍 <strong>Languages</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
