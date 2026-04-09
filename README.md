@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobechukwu-chris-odeh/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobeodeh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobechukwu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobeore)
 
 </div>
 
@@ -39,7 +39,7 @@ I **teach systems to think, react, and exist in the real world**.
 </td>
 <td width="45%" align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobechukwu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobeoreu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </td>
 </tr>
