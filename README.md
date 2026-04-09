@@ -147,7 +147,7 @@ Using machine learning to surface hidden risks and support public health awarene
     </tr>
     <tr>
       <td>🛠️ <strong>Tools &amp; Platforms</strong></td>
-      <td>
+      <td width = "100%">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/Blynk-00979D?style=for-the-badge"/>
