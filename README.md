@@ -113,33 +113,35 @@ Using machine learning to surface hidden risks and support public health awarene
 
 ---
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-**Machine Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**Embedded & IoT**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-Edge_AI-2c5364?style=for-the-badge)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Blynk](https://img.shields.io/badge/Blynk-00979D?style=for-the-badge)
-
-</div>
+🧰 Tech Stack
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+🐍 Languages
+Show Image
+Show Image
+Show Image
+</td>
+<td width="50%" valign="top" align="center">
+🤖 Machine Learning
+Show Image
+Show Image
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+⚡ Embedded & IoT
+Show Image
+Show Image
+</td>
+<td width="50%" valign="top" align="center">
+🛠️ Tools & Platforms
+Show Image
+Show Image
+Show Image
+</td>
+</tr>
+</table>
 
 ---
 
