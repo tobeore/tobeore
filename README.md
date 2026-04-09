@@ -115,39 +115,39 @@ Using machine learning to surface hidden risks and support public health awarene
 
 ## 🧰 Tech Stack
 
-<table>
+<table width="100%">
   <thead>
-    <tr width="100%">
-      <th align="left" >Category</th>
-      <th align="left" width="60%">Technologies</th>
+    <tr>
+      <th align="left" width="50%">Category</th>
+      <th align="left" width="50%">Technologies</th>
     </tr>
   </thead>
   <tbody>
-    <tr width="100%">
+    <tr>
       <td width="50%">🐍 <strong>Languages</strong></td>
-      <td>
+      <td width="50%">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
         <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
       </td>
     </tr>
-    <tr width = "100%">
-      <td>🤖 <strong>Machine Learning</strong></td>
+    <tr>
+      <td width="50%">🤖 <strong>Machine Learning</strong></td>
       <td width="50%">
         <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td>⚡ <strong>Embedded &amp; IoT</strong></td>
-      <td>
+      <td width="50%">⚡ <strong>Embedded &amp; IoT</strong></td>
+      <td width="50%">
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/ESP32-Edge_AI-2c5364?style=for-the-badge"/>
       </td>
     </tr>
     <tr>
-      <td>🛠️ <strong>Tools &amp; Platforms</strong></td>
-      <td width = "100%">
+      <td width="50%">🛠️ <strong>Tools &amp; Platforms</strong></td>
+      <td width="50%">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/Blynk-00979D?style=for-the-badge"/>
