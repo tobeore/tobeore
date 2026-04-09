@@ -1,146 +1,167 @@
-# 👋 Hi, I'm Tobechukwu
+<h2 align="center">👋 Hi, I'm Tobechukwu</h2>
 
-> **I build intelligent systems that don’t just run—they respond, adapt, and matter.**
+<h4 align="center">
+Machine Learning Engineer in Training | Building Intelligence That Lives Beyond Code
+</h4>
 
-`Turning data into decisions. Turning ideas into deployed reality.`
+<p align="center">
+<strong>I build intelligent systems that don’t just run—they respond, adapt, and matter.</strong><br/>
+<em>Turning data into decisions. Turning ideas into deployed reality.</em>
+</p>
 
-**Machine Learning Engineer in Training | Building Intelligence That Lives Beyond Code**
+<p align="center">
+  <a href="https://www.linkedin.com/in/tobechukwu-chris-odeh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tobeodeh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🧭 About Me
 
-I don’t just train models.
-I **teach systems to think, react, and exist in the real world**.
+<p>
+I don’t just train models.<br/>
+I <strong>teach systems to think, react, and exist in the real world</strong>.
+</p>
 
-Where some see datasets, I see **signals waiting to become decisions**.
-Where others stop at prototypes, I push toward **deployment, interaction, and impact**.
+<p>
+Where some see datasets, I see <strong>signals waiting to become decisions</strong>.<br/>
+Where others stop at prototypes, I push toward <strong>deployment, interaction, and impact</strong>.
+</p>
 
-> *Code is my language. Systems are my sentences. Impact is the message.*
-
-I work at the intersection of:
-
-* 🤖 Machine Learning
-* 🔌 Embedded Systems & Edge AI
-* 🌍 Real-World Problem Solving
+<p align="center"><em>Code is my language. Systems are my sentences. Impact is the message.</em></p>
 
 ---
 
-## ⚙️ What I'm Building (and Breaking, then Rebuilding Better)
+## ⚙️ What I'm Building
 
 ### ♻️ AI-Powered Smart Waste Sorting System
 
-An ecosystem of sensors, models, and decisions—working in rhythm:
+<ul>
+  <li>ESP32-CAM running lightweight ML at the edge</li>
+  <li>Motion as a trigger, vision as perception</li>
+  <li>Real-time feedback via light, sound, and response</li>
+  <li>IoT pipelines for monitoring and accountability</li>
+</ul>
 
-* ESP32-CAM running lightweight ML at the edge
-* Motion as a trigger, vision as perception
-* Feedback loops through light, sound, and response
-* IoT pipelines keeping systems aware and accountable
-
-> *A bin that sees. A system that thinks. A small step toward cleaner cities.*
+<p><em>A bin that sees. A system that thinks. A step toward cleaner cities.</em></p>
 
 ---
 
 ### 🏡 Secure Land Transaction Platform
 
-Engineering trust in a system often defined by doubt:
+<ul>
+  <li>Ownership verification logic</li>
+  <li>Transaction traceability</li>
+  <li>User-centered system design</li>
+</ul>
 
-* Ownership verification logic
-* Transaction traceability
-* User-first system design
-
-> *From uncertainty to proof. From risk to record.*
+<p><em>From uncertainty to proof. From risk to record.</em></p>
 
 ---
 
 ## 🧠 How I Think
 
-I build like this:
+<p align="center">
+<strong>Data → Insight → System → Impact</strong>
+</p>
 
-> **Data → Insight → System → Impact**
+<ul>
+  <li>Not just models—but systems that run reliably</li>
+  <li>Not just accuracy—but solutions that scale intentionally</li>
+  <li>Not just ideas—but problems that actually get solved</li>
+</ul>
 
-Not just accuracy.
-Not just models.
-But systems that:
-
-* run reliably
-* scale intentionally
-* and solve problems that actually exist
-
-> *A model predicts. A system delivers. I build both.*
+<p align="center"><em>A model predicts. A system delivers. I build both.</em></p>
 
 ---
 
 ## 📚 Currently Evolving
 
-* Advanced Machine Learning & Optimization
-* MLOps: from experiment to production
-* Edge AI: doing more with less compute
+<ul>
+  <li>Advanced Machine Learning & Optimization</li>
+  <li>MLOps: from experimentation to production</li>
+  <li>Edge AI: doing more with less compute</li>
+</ul>
 
-> *Learning never stops—it compounds.*
+<p align="center"><em>Learning never stops—it compounds.</em></p>
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**
+<details>
+<summary><strong>Click to explore</strong></summary>
+
+<br/>
+
+<strong>Languages</strong><br/>
 Python · SQL · C/C++
 
-**Machine Learning**
+<br/><br/>
+
+<strong>Machine Learning</strong><br/>
 Scikit-learn · TensorFlow Lite · Model Optimization
 
-**Embedded & IoT**
+<br/><br/>
+
+<strong>Embedded & IoT</strong><br/>
 ESP32 · Arduino · Sensors · Edge Deployment
 
-**Tools**
+<br/><br/>
+
+<strong>Tools</strong><br/>
 Git · GitHub · Blynk · IFTTT · DataCamp
+
+</details>
 
 ---
 
 ## 📊 Selected Work
 
 ### 🚓 UK Crime Rate Analysis & Prediction
-
-Patterns, trends, and forecasts—turning raw data into structured insight.
+<p>Turning raw data into structured insights, trends, and forecasts.</p>
 
 ---
 
 ### 🦠 Neglected Tropical Disease Prediction
-
-Using machine learning to surface invisible risks and support public health awareness.
+<p>Using machine learning to surface hidden risks and support public health awareness.</p>
 
 ---
 
 ## 🎯 Direction
 
-I’m on a path toward becoming a **world-class Machine Learning Engineer** who builds:
+<p>
+I’m on a path toward becoming a <strong>world-class Machine Learning Engineer</strong> building:
+</p>
 
-* Systems that don’t just run—but matter
-* Solutions that don’t just scale—but reach
-* Technology that doesn’t just exist—but serves
+<ul>
+  <li>Systems that don’t just run—but matter</li>
+  <li>Solutions that don’t just scale—but reach</li>
+  <li>Technology that doesn’t just exist—but serves</li>
+</ul>
 
-> *Global standards. Local impact. Relentless execution.*
-
----
-
-## 🤝 Connect
-
-* 💼 LinkedIn: *(https://www.linkedin.com/in/tobechukwu-chris-odeh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B672tShHuTQmd1Yqz7mVPAA%3D%3D)*
-* 📫 Email: *tobeodeh@gmail.com*
+<p align="center"><em>Global standards. Local impact. Relentless execution.</em></p>
 
 ---
 
 ## ⚡ Final Note
 
-I write code that listens.
-I build systems that respond.
-I design intelligence that leaves the screen—
-
+<p align="center">
+I write code that listens.<br/>
+I build systems that respond.<br/>
+I design intelligence that leaves the screen—<br/>
 and enters the world.
+</p>
 
-> *Not artificial for the sake of it—*
-> *but intelligent where it counts.*
+<p align="center">
+<em>Not artificial for the sake of it—<br/>
+but intelligent where it counts.</em>
+</p>
 
 ---
 
-⭐ If you’re building something meaningful—or thinking about it—we’ll get along just fine.
+⭐ <em>If you're building something meaningful—or thinking about it—we’ll get along just fine.</em>
