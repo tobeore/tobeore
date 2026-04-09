@@ -39,7 +39,7 @@ I **teach systems to think, react, and exist in the real world**.
 </td>
 <td width="45%" align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobeoreu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobeore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </td>
 </tr>
