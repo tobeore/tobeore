@@ -115,12 +115,46 @@ Using machine learning to surface hidden risks and support public health awarene
 
 ## 🧰 Tech Stack
 
-| Category | Technologies |
-|:---|:---|
-| 🐍 **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| 🤖 **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) |
-| ⚡ **Embedded & IoT** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-Edge_AI-2c5364?style=for-the-badge) |
-| 🛠️ **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Blynk](https://img.shields.io/badge/Blynk-00979D?style=for-the-badge) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Category</th>
+      <th align="left">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🐍 <strong>Languages</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>🤖 <strong>Machine Learning</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>⚡ <strong>Embedded &amp; IoT</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ESP32-Edge_AI-2c5364?style=for-the-badge"/>
+      </td>
+    </tr>
+    <tr>
+      <td>🛠️ <strong>Tools &amp; Platforms</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Blynk-00979D?style=for-the-badge"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
