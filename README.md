@@ -1,167 +1,223 @@
-<h2 align="center">👋 Hi, I'm Tobechukwu</h2>
+<div align="center">
 
-<h4 align="center">
-Machine Learning Engineer in Training | Building Intelligence That Lives Beyond Code
-</h4>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tobechukwu%20Chris%20Odeh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20in%20Training&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-<p align="center">
-<strong>I build intelligent systems that don’t just run—they respond, adapt, and matter.</strong><br/>
-<em>Turning data into decisions. Turning ideas into deployed reality.</em>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tobechukwu-chris-odeh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tobeodeh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+<div align="center">
+
+**I build intelligent systems that don't just run — they respond, adapt, and matter.**
+
+*Turning data into decisions. Turning ideas into deployed reality.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobechukwu-chris-odeh/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobeodeh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tobechukwu)
+
+</div>
 
 ---
 
 ## 🧭 About Me
 
-<p>
-I don’t just train models.<br/>
-I <strong>teach systems to think, react, and exist in the real world</strong>.
-</p>
+<table>
+<tr>
+<td width="55%">
 
-<p>
-Where some see datasets, I see <strong>signals waiting to become decisions</strong>.<br/>
-Where others stop at prototypes, I push toward <strong>deployment, interaction, and impact</strong>.
-</p>
+Where some see datasets, I see **signals waiting to become decisions**.
+Where others stop at prototypes, I push toward **deployment, interaction, and impact**.
 
-<p align="center"><em>Code is my language. Systems are my sentences. Impact is the message.</em></p>
+I don't just train models —
+I **teach systems to think, react, and exist in the real world**.
+
+> *Code is my language. Systems are my sentences. Impact is the message.*
+
+</td>
+<td width="45%" align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tobechukwu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ⚙️ What I'm Building
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### ♻️ AI-Powered Smart Waste Sorting System
 
-<ul>
-  <li>ESP32-CAM running lightweight ML at the edge</li>
-  <li>Motion as a trigger, vision as perception</li>
-  <li>Real-time feedback via light, sound, and response</li>
-  <li>IoT pipelines for monitoring and accountability</li>
-</ul>
+![Status](https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Edge_AI%20%7C%20IoT-2c5364?style=flat-square)
 
-<p><em>A bin that sees. A system that thinks. A step toward cleaner cities.</em></p>
+- 🔲 ESP32-CAM running lightweight ML at the edge
+- 👁️ Motion as trigger, vision as perception
+- 🔔 Real-time feedback via light, sound, and response
+- 📡 IoT pipelines for monitoring and accountability
 
----
+> *A bin that sees. A system that thinks.*
+> *A step toward cleaner cities.*
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏡 Secure Land Transaction Platform
 
-<ul>
-  <li>Ownership verification logic</li>
-  <li>Transaction traceability</li>
-  <li>User-centered system design</li>
-</ul>
+![Status](https://img.shields.io/badge/Status-Building-blue?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Full_Stack%20%7C%20Security-2c5364?style=flat-square)
 
-<p><em>From uncertainty to proof. From risk to record.</em></p>
-
----
-
-## 🧠 How I Think
-
-<p align="center">
-<strong>Data → Insight → System → Impact</strong>
-</p>
-
-<ul>
-  <li>Not just models—but systems that run reliably</li>
-  <li>Not just accuracy—but solutions that scale intentionally</li>
-  <li>Not just ideas—but problems that actually get solved</li>
-</ul>
-
-<p align="center"><em>A model predicts. A system delivers. I build both.</em></p>
-
----
-
-## 📚 Currently Evolving
-
-<ul>
-  <li>Advanced Machine Learning & Optimization</li>
-  <li>MLOps: from experimentation to production</li>
-  <li>Edge AI: doing more with less compute</li>
-</ul>
-
-<p align="center"><em>Learning never stops—it compounds.</em></p>
-
----
-
-## 🧰 Tech Stack
-
-<details>
-<summary><strong>Click to explore</strong></summary>
+- 🔑 Ownership verification logic
+- 🔍 Transaction traceability
+- 🎨 User-centered system design
 
 <br/>
 
-<strong>Languages</strong><br/>
-Python · SQL · C/C++
+> *From uncertainty to proof.*
+> *From risk to record.*
 
-<br/><br/>
-
-<strong>Machine Learning</strong><br/>
-Scikit-learn · TensorFlow Lite · Model Optimization
-
-<br/><br/>
-
-<strong>Embedded & IoT</strong><br/>
-ESP32 · Arduino · Sensors · Edge Deployment
-
-<br/><br/>
-
-<strong>Tools</strong><br/>
-Git · GitHub · Blynk · IFTTT · DataCamp
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 Selected Work
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🚓 UK Crime Rate Analysis & Prediction
-<p>Turning raw data into structured insights, trends, and forecasts.</p>
+
+![Stack](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stack](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+Turning raw data into structured insights, trends, and forecasts. Surfacing patterns from crime datasets to support data-driven policy analysis.
+
+</td>
+<td width="50%" valign="top">
+
+### 🦠 Neglected Tropical Disease Prediction
+
+![Stack](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stack](https://img.shields.io/badge/ML-Healthcare-red?style=flat-square)
+
+Using machine learning to surface hidden risks and support public health awareness where traditional systems fall short.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🦠 Neglected Tropical Disease Prediction
-<p>Using machine learning to surface hidden risks and support public health awareness.</p>
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Embedded & IoT**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-Edge_AI-2c5364?style=for-the-badge)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-00979D?style=for-the-badge)
+
+</div>
+
+---
+
+## 🧠 How I Think
+
+<div align="center">
+
+```
+Data  ──▶  Insight  ──▶  System  ──▶  Impact
+```
+
+| | Principle |
+|:---:|:---|
+| 🏗️ | Not just models — but **systems that run reliably** |
+| 📈 | Not just accuracy — but **solutions that scale intentionally** |
+| 💡 | Not just ideas — but **problems that actually get solved** |
+
+> *A model predicts. A system delivers. I build both.*
+
+</div>
+
+---
+
+## 📚 Currently Evolving
+
+<div align="center">
+
+| Area | Focus |
+|:---|:---|
+| 🤖 Advanced ML | Optimization, ensembles, and deep learning architectures |
+| 🚀 MLOps | From experimentation to production — CI/CD for models |
+| ⚡ Edge AI | Doing more intelligence with less compute |
+
+*Learning never stops — it compounds.*
+
+</div>
 
 ---
 
 ## 🎯 Direction
 
-<p>
-I’m on a path toward becoming a <strong>world-class Machine Learning Engineer</strong> building:
-</p>
+<div align="center">
 
-<ul>
-  <li>Systems that don’t just run—but matter</li>
-  <li>Solutions that don’t just scale—but reach</li>
-  <li>Technology that doesn’t just exist—but serves</li>
-</ul>
+I'm on a path toward becoming a **world-class Machine Learning Engineer** building:
 
-<p align="center"><em>Global standards. Local impact. Relentless execution.</em></p>
+| | Goal |
+|:---:|:---|
+| 🌍 | Systems that don't just run — **but matter** |
+| 📡 | Solutions that don't just scale — **but reach** |
+| 🔧 | Technology that doesn't just exist — **but serves** |
 
----
+**Global standards. Local impact. Relentless execution.**
 
-## ⚡ Final Note
-
-<p align="center">
-I write code that listens.<br/>
-I build systems that respond.<br/>
-I design intelligence that leaves the screen—<br/>
-and enters the world.
-</p>
-
-<p align="center">
-<em>Not artificial for the sake of it—<br/>
-but intelligent where it counts.</em>
-</p>
+</div>
 
 ---
 
-⭐ <em>If you're building something meaningful—or thinking about it—we’ll get along just fine.</em>
+<div align="center">
+
+*I write code that listens.*
+*I build systems that respond.*
+*I design intelligence that leaves the screen — and enters the world.*
+
+<br/>
+
+*Not artificial for the sake of it — but intelligent where it counts.*
+
+<br/>
+
+⭐ **If you're building something meaningful — or thinking about it — we'll get along just fine.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
