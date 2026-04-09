@@ -119,7 +119,7 @@ Using machine learning to surface hidden risks and support public health awarene
   <thead>
     <tr>
       <th align="left" width="50%">Category</th>
-      <th align="left" width="50%">Technologies</th>
+      <th align="left" width="60%">Technologies</th>
     </tr>
   </thead>
   <tbody>
