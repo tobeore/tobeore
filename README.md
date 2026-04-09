@@ -115,9 +115,9 @@ Using machine learning to surface hidden risks and support public health awarene
 
 ## 🧰 Tech Stack
 
-<table width="100%">
+<table>
   <thead>
-    <tr>
+    <tr width = "100%">
       <th align="left">Category</th>
       <th align="left">Technologies</th>
     </tr>
