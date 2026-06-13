@@ -8,7 +8,7 @@
 
 <div align="center">
 
-**I build intelligent systems that don't just run — they respond, adapt, and matter.**
+**I build intelligent systems that don't just run, they respond, adapt, and matter.**
 
 *Turning data into decisions. Turning ideas into deployed reality.*
 
@@ -168,9 +168,9 @@ Data  ──▶  Insight  ──▶  System  ──▶  Impact
 
 | | Principle |
 |:---:|:---|
-| 🏗️ | Not just models — but **systems that run reliably** |
-| 📈 | Not just accuracy — but **solutions that scale intentionally** |
-| 💡 | Not just ideas — but **problems that actually get solved** |
+| 🏗️ | Not just models  but **systems that run reliably** |
+| 📈 | Not just accuracy but **solutions that scale intentionally** |
+| 💡 | Not just ideas but **problems that actually get solved** |
 
 > *A model predicts. A system delivers. I build both.*
 
@@ -202,9 +202,9 @@ I'm on a path toward becoming a **world-class Machine Learning Engineer** buildi
 
 | | Goal |
 |:---:|:---|
-| 🌍 | Systems that don't just run — **but matter** |
-| 📡 | Solutions that don't just scale — **but reach** |
-| 🔧 | Technology that doesn't just exist — **but serves** |
+| 🌍 | Systems that don't just run **but matter** |
+| 📡 | Solutions that don't just scale **but reach** |
+| 🔧 | Technology that doesn't just exist **but serves** |
 
 **Global standards. Local impact. Relentless execution.**
 
@@ -216,15 +216,15 @@ I'm on a path toward becoming a **world-class Machine Learning Engineer** buildi
 
 *I write code that listens.*
 *I build systems that respond.*
-*I design intelligence that leaves the screen — and enters the world.*
+*I design intelligence that leaves the screen and enters the world.*
 
 <br/>
 
-*Not artificial for the sake of it — but intelligent where it counts.*
+*Not artificial for the sake of it but intelligent where it counts.*
 
 <br/>
 
-⭐ **If you're building something meaningful — or thinking about it — we'll get along just fine.**
+⭐ **If you're building something meaningful or thinking about it, we'll get along just fine.**
 
 <br/>
 
